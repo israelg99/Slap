@@ -1,0 +1,7 @@
+c:\users\israel\documents\visual studio 2015\Projects\Slap\Slap\bin\Release\Slap.exe.config
+c:\users\israel\documents\visual studio 2015\Projects\Slap\Slap\bin\Release\Slap.exe
+c:\users\israel\documents\visual studio 2015\Projects\Slap\Slap\bin\Release\Slap.pdb
+c:\users\israel\documents\visual studio 2015\Projects\Slap\Slap\bin\Release\Newtonsoft.Json.dll
+c:\users\israel\documents\visual studio 2015\Projects\Slap\Slap\bin\Release\Newtonsoft.Json.xml
+c:\users\israel\documents\visual studio 2015\Projects\Slap\Slap\obj\Release\Slap.exe
+c:\users\israel\documents\visual studio 2015\Projects\Slap\Slap\obj\Release\Slap.pdb

@@ -9,7 +9,7 @@ using Newtonsoft.Json.Serialization;
 
 namespace Slap.Slap.Network.Slack {
     public static class SlackHttpHandler {
-        public static async void POST(string hook, SlackPayload payload) {
+        public static void POST(string hook, SlackPayload payload) {
             string strPayload = JsonConvert.SerializeObject(
                 payload,
                 Formatting.Indented,
@@ -19,7 +19,7 @@ namespace Slap.Slap.Network.Slack {
             ClientHttpHandler.POST(hook, strPayload);
         }
 
-        public static async void POST(string hook, string text, string username = "", string icon_url = "") {
+        public static void POST(string hook, string text, string username = "", string icon_url = "") {
             POST(hook, new SlackPayload(text, username, icon_url));
         }
     }
