@@ -1,0 +1,8 @@
+c:\users\israel\documents\visual studio 2015\Projects\Slap\Slap\bin\Debug\Slap.exe.config
+c:\users\israel\documents\visual studio 2015\Projects\Slap\Slap\bin\Debug\Slap.exe
+c:\users\israel\documents\visual studio 2015\Projects\Slap\Slap\bin\Debug\Slap.pdb
+c:\users\israel\documents\visual studio 2015\Projects\Slap\Slap\obj\Debug\Slap.csprojResolveAssemblyReference.cache
+c:\users\israel\documents\visual studio 2015\Projects\Slap\Slap\obj\Debug\Slap.exe
+c:\users\israel\documents\visual studio 2015\Projects\Slap\Slap\obj\Debug\Slap.pdb
+c:\users\israel\documents\visual studio 2015\Projects\Slap\Slap\bin\Debug\Newtonsoft.Json.dll
+c:\users\israel\documents\visual studio 2015\Projects\Slap\Slap\bin\Debug\Newtonsoft.Json.xml
